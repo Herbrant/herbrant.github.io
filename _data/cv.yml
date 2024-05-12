@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Davide Carnemolla
     - name: Date of Birth
-      value: 14th March 1879
+      value: 12th November 1998
     - name: Languages
-      value: English, German
+      value: Italian, English
 
 - title: Education
   type: time_table
@@ -82,7 +82,7 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Cryptography
       items:
         - Description 1.
         - Description 2.
