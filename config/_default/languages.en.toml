@@ -14,12 +14,12 @@ title = "Blowfish"
   dateFormat = "2 January 2006"
 
 [params.author]
-  name = "Your name here"
+  name = "Davide Carnemolla"
   image = "img/blowfish_logo.png"
   headline = "I'm only human"
   bio = "A little bit about you"
-  # links = [
-  #   { email = "mailto:hello@your_domain.com" },
+  links = [
+    { email = "mailto:davide.carnemolla@phd.unict.it" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -31,19 +31,19 @@ title = "Blowfish"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-  #   { github = "https://github.com/username" },
+    { github = "https://github.com/Herbrant" },
   #   { gitlab = "https://gitlab.com/username" },
-  #   { google = "https://www.google.com/" },
+    { google = "https://scholar.google.com/citations?user=RcK0fhIAAAAJ" },
   #   { hashnode = "https://username.hashnode.dev" },
   #   { instagram = "https://instagram.com/username" },
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
-  #   { linkedin = "https://linkedin.com/in/username" },
+    { linkedin = "https://www.linkedin.com/in/davide-carnemolla/" },
   #   { mastodon = "https://mastodon.instance/@username" },
   #   { medium = "https://medium.com/username" },
   #   { microsoft = "https://www.microsoft.com/" },
-  #   { orcid = "https://orcid.org/userid" },
+    { orcid = "https://orcid.org/0009-0001-2575-0874" },
   #   { patreon = "https://www.patreon.com/username" },
   #   { pinterest = "https://pinterest.com/username" },
   #   { reddit = "https://reddit.com/user/username" },
@@ -53,7 +53,7 @@ title = "Blowfish"
   #   { soundcloud = "https://soundcloud.com/username" },
   #   { stack-overflow = "https://stackoverflow.com/users/userid/username" },
   #   { steam = "https://steamcommunity.com/profiles/userid" },
-  #   { telegram = "https://t.me/username" },
+    { telegram = "https://t.me/Herbrant" },
   #   { tiktok = "https://tiktok.com/@username" },
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
@@ -61,4 +61,4 @@ title = "Blowfish"
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
   #   { ko-fi = "https://ko-fi.com/username" },
-  # ]
+  ]
