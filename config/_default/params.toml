@@ -3,6 +3,7 @@ defaultAppearance = "light"
 autoSwitchAppearance = true
 enableSearch = false
 enableCodeCopy = true
+highlightCurrentMenuArea = true
 
 [header]
 layout = "basic"
@@ -37,11 +38,11 @@ seriesOpened = false
 showHeadingAnchors = true
 showPagination = true
 invertPagination = false
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = true
 showTaxonomies = false
 showAuthorsBadges = false
-showWordCount = true
+showWordCount = false
 showSummary = true
 sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email" ]
 

@@ -16,9 +16,9 @@ identifier = "NoG76jmGI3"
 weight = 9999
 
 [[main]]
-name = "CV"
+name = "Resume"
 pre = "graduation-cap"
-pageRef = "cv"
+pageRef = "resume"
 identifier = "o90O7Jtj90"
 weight = 9999
 

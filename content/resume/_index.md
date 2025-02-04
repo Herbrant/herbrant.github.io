@@ -1,4 +1,4 @@
 ---
-title: "Research"
+title: "CV"
 draft: false
 ---
