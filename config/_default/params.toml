@@ -1,10 +1,11 @@
 colorScheme = "blowfish"
-defaultAppearance = "light"
+defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableSearch = false
 enableCodeCopy = true
 highlightCurrentMenuArea = true
 logo = "img/penguin.svg"
+defaultBackgroundImage = "/img/background.svg"
 
 [header]
 layout = "basic"
@@ -16,7 +17,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
+layout = "background"
 showRecent = false
 showRecentItems = 5
 showMoreLink = false
@@ -30,7 +31,7 @@ showDate = false
 showDateUpdated = false
 showAuthor = false
 showHero = true
-heroStyle = "basic"
+heroStyle = "background"
 showBreadcrumbs = true
 showDraftLabel = true
 showEdit = false
