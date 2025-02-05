@@ -22,5 +22,12 @@ pageRef = "resume"
 identifier = "o90O7Jtj90"
 weight = 5
 
+[[main]]
+name = "Human stuff"
+pre = "ghost"
+pageRef = "hobbies"
+identifier = "rFohLlXlw6"
+weight = 9999
+
 [[footer]]
 none = "none"
