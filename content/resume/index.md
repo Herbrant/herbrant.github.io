@@ -3,7 +3,7 @@ title: "Resume"
 draft: false
 ---
 
-## Education
+## Experience
 
 <table>
     <thead>
