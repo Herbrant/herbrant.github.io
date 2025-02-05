@@ -4,6 +4,7 @@ autoSwitchAppearance = true
 enableSearch = false
 enableCodeCopy = true
 highlightCurrentMenuArea = true
+logo = "img/penguin.svg"
 
 [header]
 layout = "basic"
