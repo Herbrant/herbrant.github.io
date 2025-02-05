@@ -6,21 +6,21 @@ name = "Research"
 pre = "lightbulb"
 pageRef = "research"
 identifier = "ICpkGNhalo"
-weight = 9999
+weight = 3
 
 [[main]]
 name = "Teaching"
 pre = "heart"
 pageRef = "teaching"
 identifier = "NoG76jmGI3"
-weight = 9999
+weight = 4
 
 [[main]]
 name = "Resume"
 pre = "graduation-cap"
 pageRef = "resume"
 identifier = "o90O7Jtj90"
-weight = 9999
+weight = 5
 
 [[footer]]
 none = "none"

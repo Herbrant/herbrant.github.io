@@ -25,9 +25,9 @@ cardViewScreenWidth = false
 layoutBackgroundBlur = false
 
 [article]
-showDate = true
+showDate = false
 showDateUpdated = false
-showAuthor = true
+showAuthor = false
 showHero = true
 heroStyle = "basic"
 showBreadcrumbs = true
@@ -36,7 +36,7 @@ showEdit = false
 editAppendPath = true
 seriesOpened = false
 showHeadingAnchors = true
-showPagination = true
+showPagination = false
 invertPagination = false
 showReadingTime = false
 showTableOfContents = true
@@ -44,14 +44,14 @@ showTaxonomies = false
 showAuthorsBadges = false
 showWordCount = false
 showSummary = true
-sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email" ]
+sharingLinks = []
 
 [list]
 showBreadcrumbs = false
-showSummary = true
+showSummary = false
 showTableOfContents = false
 showCards = false
-groupByYear = true
+groupByYear = false
 cardView = false
 cardViewScreenWidth = false
 
@@ -59,7 +59,7 @@ cardViewScreenWidth = false
 excludedKinds = []
 
 [taxonomy]
-showTermCount = true
+showTermCount = false
 
 [firebase]
 

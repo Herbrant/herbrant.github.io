@@ -1,4 +1,0 @@
----
-title: "CV"
-draft: false
----
