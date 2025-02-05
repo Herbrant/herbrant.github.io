@@ -133,6 +133,8 @@ Giovanni Campo, Davide Carnemolla, Mario Di Raimondo, Corrado Santoro and Federi
 &lt;div id="other-activities" class="anchor">&lt;/div>
 &lt;/h2>
 &lt;ul>
-&lt;li>RUSTico: Rust in Cryptographic Outlook&lt;br>
+&lt;li>&lt;strong>RUSTico: Rust in Cryptographic Outlook&lt;/strong>&lt;br>
+Seminar for the &lt;em>Cryptographic Engineering&lt;/em> Course&lt;br>
+&lt;em>University of Catania&lt;/em>, 2025&lt;br>
 &lt;a href="./rustico.pdf">Slides&lt;/a> - &lt;a href="https://github.com/Herbrant/pke_rust" target="_blank">Code 1&lt;/a> - &lt;a href="https://github.com/Herbrant/ds_rust" target="_blank">Code 2&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>
