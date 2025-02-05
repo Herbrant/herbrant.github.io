@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About me on Davide Carnemolla</title><link>/</link><description>Recent content in About me on Davide Carnemolla</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025 Davide Carnemolla</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Research</title><link>/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/research/</guid><description>&lt;h2 class="relative group">Published
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About me on Davide Carnemolla</title><link>/</link><description>Recent content in About me on Davide Carnemolla</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025 Davide Carnemolla</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Human Stuff</title><link>/hobbies/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/hobbies/</guid><description>&lt;h2 class="relative group">Music &amp;#x1f3b8;
+&lt;div id="music-guitar" class="anchor">&lt;/div>
+&lt;/h2>
+&lt;p>In my spare time I play electric guitar. I also spend a lot of time listening to music, especially Jazz, Fusion and old Italian Songwriters.&lt;/p>
+&lt;h2 class="relative group">Cooking
+&lt;div id="cooking" class="anchor">&lt;/div>
+&lt;/h2>
+&lt;p>I like cooking, especially meals from my homeland: Sicily. My grandmother and my mother introduced me to this world when I was a child.&lt;/p></description></item><item><title>Research</title><link>/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/research/</guid><description>&lt;h2 class="relative group">Published
 &lt;div id="published" class="anchor">&lt;/div>
 &lt;/h2>
 &lt;ul>
@@ -110,4 +117,22 @@ Giovanni Campo, Davide Carnemolla, Mario Di Raimondo, Corrado Santoro and Federi
 &lt;/tbody>
 &lt;/table></description></item><item><title>Teaching</title><link>/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/teaching/</guid><description>&lt;h2 class="relative group">Teaching Assistant
 &lt;div id="teaching-assistant" class="anchor">&lt;/div>
-&lt;/h2></description></item></channel></rss>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Operating Systems&lt;/strong>&lt;br>
+&lt;em>University of Catania&lt;/em>, 2023&lt;br>
+&lt;a href="./tutorial_shell.pdf">Tutorial Shell&lt;/a> - &lt;a href="https://github.com/Herbrant/Tutorato-Sistemi-Operativi-2023" target="_blank">GitHub Repository&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Operating Systems&lt;/strong>&lt;br>
+&lt;em>University of Catania&lt;/em>, 2022&lt;br>
+&lt;a href="https://github.com/Herbrant/Tutorato-Sistemi-Operativi-2022" target="_blank">GitHub Repository&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Internet Security&lt;/strong>&lt;br>
+&lt;em>University of Catania&lt;/em>, 2022&lt;br>
+&lt;a href="./internet_security.pdf">Slides&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Other Activities
+&lt;div id="other-activities" class="anchor">&lt;/div>
+&lt;/h2>
+&lt;ul>
+&lt;li>RUSTico: Rust in Cryptographic Outlook&lt;br>
+&lt;a href="./rustico.pdf">Slides&lt;/a> - &lt;a href="https://github.com/Herbrant/pke_rust" target="_blank">Code 1&lt;/a> - &lt;a href="https://github.com/Herbrant/ds_rust" target="_blank">Code 2&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
