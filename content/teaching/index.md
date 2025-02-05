@@ -4,3 +4,17 @@ draft: false
 ---
 
 ## Teaching Assistant
+- **Operating Systems**  
+*University of Catania*, 2023  
+[Tutorial Shell](./tutorial_shell.pdf) - [GitHub Repository](https://github.com/Herbrant/Tutorato-Sistemi-Operativi-2023)
+- **Operating Systems**  
+*University of Catania*, 2022  
+[GitHub Repository](https://github.com/Herbrant/Tutorato-Sistemi-Operativi-2022)
+- **Internet Security**  
+*University of Catania*, 2022  
+[Slides](./internet_security.pdf)
+
+
+## Other Activities
+- RUSTico: Rust in Cryptographic Outlook  
+[Slides](./rustico.pdf) - [Code 1](https://github.com/Herbrant/pke_rust) - [Code 2](https://github.com/Herbrant/ds_rust)
