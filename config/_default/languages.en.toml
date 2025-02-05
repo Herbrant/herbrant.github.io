@@ -9,5 +9,5 @@ isoCode = "en"
 rtl = false
 description = "Davide Carnemolla's Portfolio"
 dateFormat = "2 January 2006"
-author = { name = "Davide Carnemolla", image = "img/profile.jpg", headline = "I'm only human", bio = "A little bit about you", links = [ { email = "mailto:davide.carnemolla@phd.unict.it" }, { github = "https://github.com/Herbrant" }, { google = "https://scholar.google.com/citations?user=RcK0fhIAAAAJ" }, { linkedin = "https://www.linkedin.com/in/davide-carnemolla/" }, { orcid = "https://orcid.org/0009-0001-2575-0874" }, { telegram = "https://t.me/Herbrant" } ] }
+author = { name = "Davide Carnemolla", image = "img/profile.jpg", headline = "I'm only human :robot:", bio = "A little bit about you", links = [ { email = "mailto:davide.carnemolla@phd.unict.it" }, { github = "https://github.com/Herbrant" }, { google = "https://scholar.google.com/citations?user=RcK0fhIAAAAJ" }, { linkedin = "https://www.linkedin.com/in/davide-carnemolla/" }, { orcid = "https://orcid.org/0009-0001-2575-0874" }, { telegram = "https://t.me/Herbrant" } ] }
 
