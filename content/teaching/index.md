@@ -13,9 +13,6 @@ draft: false
 - **Operating Systems**  
 *University of Catania*, 2022  
 [GitHub Repository](https://github.com/Herbrant/Tutorato-Sistemi-Operativi-2022)
-- **Internet Security**  
-*University of Catania*, 2022  
-[Slides](./internet_security.pdf)
 
 
 ## Other Activities
