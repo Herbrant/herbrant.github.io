@@ -4,6 +4,9 @@ draft: false
 ---
 
 ## Teaching Assistant
+- **Programming 1**  
+*University of Catania*, 2024  
+[GitHub Repository](https://github.com/Herbrant/Tutorato-Programmazione-1-2024)
 - **Operating Systems**  
 *University of Catania*, 2023  
 [Tutorial Shell](./tutorial_shell.pdf) - [GitHub Repository](https://github.com/Herbrant/Tutorato-Sistemi-Operativi-2023)
