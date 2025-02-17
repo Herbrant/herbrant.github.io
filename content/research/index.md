@@ -17,6 +17,10 @@ Davide Carnemolla, Fabrizio Messina, Corrado Santoro and Federico Fausto Santoro
 *In WOA 2024, ser. CEUR Workshop Proceedings*, 2024
 
 ## Preprints
+- [**Anamorphic Resistant Encryption: the Good, the Bad and the Ugly**](https://eprint.iacr.org/2025/233)  
+Davide Carnemolla, Dario Catalano, Emanuele Giunta and Francesco Migliaro  
+*In Cryptology ePrint Archive, 2025*
+
 - [**Implementation and Performance Analysis of Homomorphic Signature Schemes**](https://eprint.iacr.org/2024/655)  
 Davide Carnemolla, Dario Catalano, Mario Di Raimondo and Federico Savasta  
 *In Cryptology ePrint Archive, 2024*
