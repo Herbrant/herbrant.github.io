@@ -6,7 +6,7 @@ draft: false
 ## Published
 - [**Anamorphic Resistant Encryption: the Good, the Bad and the Ugly**](https://eprint.iacr.org/2025/233)  
 Davide Carnemolla, Dario Catalano, Emanuele Giunta and Francesco Migliaro  
-*In Advances in Cryptology – CRYPTO 2025, 2025 *
+*In Advances in Cryptology – CRYPTO 2025, 2025*
 
 - [**Algorithm substitution attacks on symmetric encryption: a survey**](https://lematematiche.dmi.unict.it/index.php/lematematiche/article/view/2700)  
 Davide Carnemolla and Mario Di Raimondo  
