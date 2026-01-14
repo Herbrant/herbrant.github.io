@@ -4,6 +4,7 @@ draft: false
 ---
 
 ## Experience
+My full CV is available [here](https://herbrant.github.io/resume/Davide_Carnemolla_CV.pdf).
 
 <table>
     <thead>
