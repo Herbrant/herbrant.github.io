@@ -1,13 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About me on Davide Carnemolla</title><link>/</link><description>Recent content in About me on Davide Carnemolla</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026 Davide Carnemolla</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Human Stuff</title><link>/hobbies/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/hobbies/</guid><description>&lt;h2 class="relative group"&gt;Music &amp;#x1f3b8;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About me on Davide Carnemolla</title><link>https://herbrant.github.io/</link><description>Recent content in About me on Davide Carnemolla</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026 Davide Carnemolla</copyright><atom:link href="https://herbrant.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Human Stuff</title><link>https://herbrant.github.io/hobbies/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://herbrant.github.io/hobbies/</guid><description>&lt;h2 class="relative group"&gt;Music &amp;#x1f3b8;
  &lt;div id="music-guitar" class="anchor"&gt;&lt;/div&gt;
  
 &lt;/h2&gt;
 &lt;p&gt;In my spare time I play electric guitar. I also spend a lot of time listening to music, especially Jazz, Fusion and old Italian Songwriters.&lt;/p&gt;
-&lt;p&gt;You can find my Last.fm profile &lt;a href="https://www.last.fm/user/herbrant_sh" target="_blank" rel="noreferrer"&gt;here&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Projects</title><link>/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/projects/</guid><description>&lt;h2 class="relative group"&gt;ExamBox
+&lt;p&gt;You can find my Last.fm profile &lt;a href="https://www.last.fm/user/herbrant_sh" target="_blank" rel="noreferrer"&gt;here&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Privacy</title><link>https://herbrant.github.io/privacy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://herbrant.github.io/privacy/</guid><description>&lt;p&gt;This website is a personal, non-commercial site. It does not use cookies, it does not ask you to log in, and it does not run advertising or cross-site tracking.&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;Analytics
+ &lt;div id="analytics" class="anchor"&gt;&lt;/div&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;To get a rough idea of how many people read these pages, the site loads &lt;a href="https://umami.is" target="_blank" rel="noreferrer"&gt;Umami&lt;/a&gt;, a privacy-focused analytics service. For each page view Umami records:&lt;/p&gt;</description></item><item><title>Projects</title><link>https://herbrant.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://herbrant.github.io/projects/</guid><description>&lt;h2 class="relative group"&gt;ExamBox
  &lt;div id="exambox" class="anchor"&gt;&lt;/div&gt;
  
 &lt;/h2&gt;
-&lt;p&gt;ExamBox is a software project designed to support laboratory exams at the Department of Mathematics and Computer Science of the University of Catania. It enables instructors to generate minimal GNU/Linux images with all the tools required for an exam and deploy them across departmental laboratories in a diskless environment using iPXE. The generated images include security mechanisms that help prevent student collaboration and access to unauthorized materials during examinations.&lt;/p&gt;</description></item><item><title>Research</title><link>/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/research/</guid><description>&lt;h2 class="relative group"&gt;Published
+&lt;p&gt;ExamBox is a software project designed to support laboratory exams at the Department of Mathematics and Computer Science of the University of Catania. It enables instructors to generate minimal GNU/Linux images with all the tools required for an exam and deploy them across departmental laboratories in a diskless environment using iPXE. The generated images include security mechanisms that help prevent student collaboration and access to unauthorized materials during examinations.&lt;/p&gt;</description></item><item><title>Research</title><link>https://herbrant.github.io/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://herbrant.github.io/research/</guid><description>&lt;h2 class="relative group"&gt;Published
  &lt;div id="published" class="anchor"&gt;&lt;/div&gt;
  
 &lt;/h2&gt;
@@ -20,7 +26,7 @@ Davide Carnemolla, Dario Catalano, Valentina Frasca and Emanuele Giunta
 &lt;li&gt;
 &lt;p&gt;&lt;a href="https://eprint.iacr.org/2025/233" target="_blank" rel="noreferrer"&gt;&lt;strong&gt;Anamorphic Resistant Encryption: the Good, the Bad and the Ugly&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
 Davide Carnemolla, Dario Catalano, Emanuele Giunta and Francesco Migliaro&lt;br&gt;
-&lt;em&gt;In Advances in Cryptology – CRYPTO 2025, 2025&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Resume</title><link>/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/resume/</guid><description>&lt;p&gt;My full CV is available &lt;a href="https://herbrant.github.io/resume/Davide_Carnemolla_CV.pdf" target="_blank" rel="noreferrer"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;em&gt;In Advances in Cryptology – CRYPTO 2025, 2025&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Resume</title><link>https://herbrant.github.io/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://herbrant.github.io/resume/</guid><description>&lt;p&gt;My full CV is available &lt;a href="https://herbrant.github.io/resume/Davide_Carnemolla_CV.pdf" target="_blank" rel="noreferrer"&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 class="relative group"&gt;Experience
  &lt;div id="experience" class="anchor"&gt;&lt;/div&gt;
@@ -123,7 +129,7 @@ Davide Carnemolla, Dario Catalano, Emanuele Giunta and Francesco Migliaro&lt;br&
  &lt;td&gt;2021&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>Teaching</title><link>/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/teaching/</guid><description>&lt;h2 class="relative group"&gt;Teaching Assistant
+&lt;/table&gt;</description></item><item><title>Teaching</title><link>https://herbrant.github.io/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://herbrant.github.io/teaching/</guid><description>&lt;h2 class="relative group"&gt;Teaching Assistant
  &lt;div id="teaching-assistant" class="anchor"&gt;&lt;/div&gt;
  
 &lt;/h2&gt;
@@ -133,7 +139,7 @@ Davide Carnemolla, Dario Catalano, Emanuele Giunta and Francesco Migliaro&lt;br&
 &lt;a href="https://github.com/Herbrant/Tutorato-Programmazione-1-2024" target="_blank" rel="noreferrer"&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Operating Systems&lt;/strong&gt;&lt;br&gt;
 &lt;em&gt;University of Catania&lt;/em&gt;, 2023&lt;br&gt;
-&lt;a href="/teaching/tutorial_shell.pdf" &gt;Tutorial Shell&lt;/a&gt; - &lt;a href="https://github.com/Herbrant/Tutorato-Sistemi-Operativi-2023" target="_blank" rel="noreferrer"&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
+&lt;a href="https://herbrant.github.io/teaching/tutorial_shell.pdf" &gt;Tutorial Shell&lt;/a&gt; - &lt;a href="https://github.com/Herbrant/Tutorato-Sistemi-Operativi-2023" target="_blank" rel="noreferrer"&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Operating Systems&lt;/strong&gt;&lt;br&gt;
 &lt;em&gt;University of Catania&lt;/em&gt;, 2022&lt;br&gt;
 &lt;a href="https://github.com/Herbrant/Tutorato-Sistemi-Operativi-2022" target="_blank" rel="noreferrer"&gt;GitHub Repository&lt;/a&gt;&lt;/li&gt;
@@ -147,5 +153,5 @@ Davide Carnemolla, Dario Catalano, Emanuele Giunta and Francesco Migliaro&lt;br&
 &lt;li&gt;&lt;strong&gt;RUSTico: Rust in Cryptographic Outlook&lt;/strong&gt;&lt;br&gt;
 Seminar for the &lt;em&gt;Cryptographic Engineering&lt;/em&gt; Course&lt;br&gt;
 &lt;em&gt;University of Catania&lt;/em&gt;, 2025&lt;br&gt;
-&lt;a href="/teaching/rustico.pdf" &gt;Slides&lt;/a&gt; - &lt;a href="https://github.com/Herbrant/pke_rust" target="_blank" rel="noreferrer"&gt;Code 1&lt;/a&gt; - &lt;a href="https://github.com/Herbrant/ds_rust" target="_blank" rel="noreferrer"&gt;Code 2&lt;/a&gt;&lt;/li&gt;
+&lt;a href="https://herbrant.github.io/teaching/rustico.pdf" &gt;Slides&lt;/a&gt; - &lt;a href="https://github.com/Herbrant/pke_rust" target="_blank" rel="noreferrer"&gt;Code 1&lt;/a&gt; - &lt;a href="https://github.com/Herbrant/ds_rust" target="_blank" rel="noreferrer"&gt;Code 2&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description></item></channel></rss>
