@@ -68,3 +68,10 @@ showTermCount = false
 [fathomAnalytics]
 
 [verification]
+
+[umamiAnalytics]
+websiteid = "21d41578-c1b3-417d-b55a-7bd8c1b4aa9b"
+domain = "cloud.umami.is"
+dataDomains = "herbrant.github.io"
+doNotTrack = true
+enableTrackEvent = false

@@ -37,4 +37,6 @@ identifier = "rFohLlXlw6"
 weight = 9999
 
 [[footer]]
-none = "none"
+name = "Privacy"
+pageRef = "privacy"
+weight = 10
